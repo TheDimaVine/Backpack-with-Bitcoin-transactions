@@ -1,7 +1,7 @@
 # Backpack-with-Bitcoin-transactions
 Testing task for company
 
-How to run this project? You should download all files and run Website Analytics.sin by using Visual Studio. If you haven`t Visual Studio, copy and paste code from main.cpp in your IDE.
+How to run this project? You should download all files and run Website Analytics.sin by using Visual Studio. If you haven`t Visual Studio, copy and paste code from main.cpp in your IDE. Don`t forget paste txt files in your project directory.
 
 1. Reading Transactions (read_transactions function):
 Time Complexity: 𝑂(𝑛), where 𝑛 is the number of transactions in the CSV file. This is because we need to read each line from the file and parse it into a transaction object, which involves a constant amount of work per transaction.
